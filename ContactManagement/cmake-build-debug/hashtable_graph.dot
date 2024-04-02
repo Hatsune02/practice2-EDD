@@ -1,0 +1,9 @@
+digraph HashTable {
+  rankdir=LR;
+  Amigos -> index3 -> 
+  nombre -> AVLTreenombre;
+  Lam -> Pedro;
+  Lam -> Can;
+  Can -> Juan;
+
+}
